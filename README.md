@@ -1,2 +1,2 @@
-# Group2-Physics-project-photocopiers
+# Group1-Physics-project-photocopiers
 group project
